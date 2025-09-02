@@ -1,1 +1,1 @@
-This will be the hostin site for my Capstone project.
+This will be the hosting site for my Capstone project.
