@@ -1,0 +1,4 @@
+﻿Id,Name,TypeId,IsDefaultPassword
+1,admin,1,FALSE
+2,Beth.Santos,2,TRUE
+3,Jake.Smith,2,TRUE

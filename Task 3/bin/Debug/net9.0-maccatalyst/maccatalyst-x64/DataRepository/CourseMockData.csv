@@ -1,0 +1,80 @@
+Id,Name,InstructorId,EstimatedDuration,MajorId
+0,English I,1,2.5,0
+0,English II,2,2.5,0
+0,College Algebra,3,2.5,0
+0,Pre-Calculus,4,2.5,0
+0,Calculus I,5,2.5,0
+0,Introduction to Psychology,6,2.5,0
+0,Introduction to Sociology,7,2.5,0
+0,Public Speaking,8,2.5,0
+0,American Government,9,2.5,0
+0,U.S. History I,10,2.5,0
+0,U.S. History II,11,2.5,0
+0,Environmental Science,12,2.5,0
+0,Biology I,13,2.5,0
+0,Biology II,14,2.5,0
+0,General Chemistry,15,2.5,0
+0,Introduction to Art,16,2.5,0
+0,Music Appreciation,17,2.5,0
+0,Philosophy 101,18,2.5,0
+0,Ethics,19,2.5,0
+0,Introduction to Literature,20,2.5,0
+0,World Literature,21,2.5,0
+0,Introduction to Statistics,22,2.5,0
+0,Physical Science,1,2.5,0
+0,Health and Wellness,2,2.5,0
+0,Introduction to Anthropology,3,2.5,0
+0,Cultural Geography,4,2.5,0
+0,Intro to Computer Literacy,5,2.5,0
+0,Introduction to Astronomy,6,2.5,0
+0,Human Growth and Development,7,2.5,0
+0,Introduction to Logic,8,2.5,0
+0,Writing Fundamentals,9,2.5,0
+0,Intro to Economics,10,2.5,0
+0,Introduction to Theater,11,2.5,0
+0,Introduction to Film,12,2.5,0
+0,Interpersonal Communication,13,2.5,0
+0,Introduction to Political Science,14,2.5,0
+0,College Success Strategies,15,2.5,0
+0,Basic Spanish I,16,2.5,0
+0,Basic Spanish II,17,2.5,0
+0,Digital Media Literacy,18,2.5,1
+0,Data Structures and Algorithms,19,2.5,1
+0,Operating Systems,20,2.5,1
+0,Database Management Systems,21,2.5,1
+0,Computer Networks,22,2.5,1
+0,Software Engineering,1,2.5,1
+0,Web Application Development,2,2.5,1
+0,Cybersecurity Fundamentals,3,2.5,1
+0,Artificial Intelligence,4,2.5,1
+0,Mobile App Development,5,2.5,1
+0,Capstone Project in Computer Science,6,2.5,1
+0,Compiler Design,7,2.5,1
+0,Machine Learning,8,2.5,1
+0,Parallel and Distributed Systems,9,2.5,1
+0,Cloud Computing,10,2.5,1
+0,Computer Graphics,11,2.5,1
+0,Human-Computer Interaction,12,2.5,1
+0,Information Retrieval,13,2.5,1
+0,Natural Language Processing,14,2.5,1
+0,Theory of Computation,15,2.5,1
+0,Cell Biology,16,2.5,2
+0,Molecular Genetics,17,2.5,2
+0,Biochemistry,18,2.5,2
+0,Evolutionary Biology,19,2.5,2
+0,Plant Biology,20,2.5,2
+0,Microbiology,21,2.5,2
+0,Animal Physiology,22,2.5,2
+0,Developmental Biology,1,2.5,2
+0,Neurobiology,2,2.5,2
+0,Marine Biology,3,2.5,2
+0,Immunology,4,2.5,2
+0,Genomics and Proteomics,5,2.5,2
+0,Conservation Biology,6,2.5,2
+0,Biostatistics,7,2.5,2
+0,Ecology,8,2.5,2
+0,Pathophysiology,9,2.5,2
+0,Pharmacology,10,2.5,2
+0,Advanced Genetics,11,2.5,2
+0,Epidemiology,12,2.5,2
+0,Capstone Project in Biology,13,2.5,2

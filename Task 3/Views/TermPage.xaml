@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<view:BaseContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C424Assessment.Views.TermPage"
+             xmlns:controls="clr-namespace:C424Assessment.Controls"
+            xmlns:view="clr-namespace:C424Assessment.Views"
+             Title="">
+    <VerticalStackLayout Padding="5" Spacing="8">
+        <HorizontalStackLayout>
+            <Label Text="Degree Completion: " FontAttributes="Bold" FontSize="15"/>
+            <Label x:Name="PercentCompleteLabel" FontAttributes="Bold" FontSize="15"/>
+        </HorizontalStackLayout>
+        <HorizontalStackLayout>
+            <Label Text="Units Enrolled: " FontAttributes="Bold" FontSize="15"/>
+            <Label x:Name="UnitsEnrolledLabel" FontAttributes="Bold" FontSize="15"/>
+            <Label x:Name="UnitsRequiredLabel" FontAttributes="Bold" FontSize="15"/>
+        </HorizontalStackLayout>
+        <Picker x:Name="TermPicker"
+                SelectedIndexChanged="TermPicker_SelectedIndexChanged"
+                FontAttributes="Bold" FontSize="18"
+                HorizontalTextAlignment="Center"/>
+        <Border>
+            <controls:TermView x:Name="TermView" />
+        </Border>
+        <Button x:Name="AddCourseButton" Text="Add Course" Clicked="AddCourseButton_Clicked"/>
+        <Button x:Name="LogoutButton" Text="Log Out" Clicked="LogoutButton_Clicked"/>
+    </VerticalStackLayout>
+</view:BaseContentPage>

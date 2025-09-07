@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<view:BaseContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:view="clr-namespace:C424Assessment.Views"
+             x:Class="C424Assessment.Views.UserLoginPage"
+             Title="Please login:" >
+    <VerticalStackLayout Padding="10" Spacing="10">
+        <Label 
+            Text="User Name:"
+            VerticalOptions="Center" 
+            HorizontalOptions="Start" />
+        <Border Padding="5" StrokeThickness="2">
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="10,10,10,10" />
+            </Border.StrokeShape>
+            <Entry x:Name="UserNameEntry" Placeholder="user name"/>
+        </Border>
+        <Label
+            Text="Password:"
+            VerticalOptions="Center" 
+            HorizontalOptions="Start" />
+        <Border Padding="5" StrokeThickness="2">
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="10,10,10,10" />
+            </Border.StrokeShape>
+            <Entry x:Name="PasswordEntry" IsPassword="True" Placeholder="password"/>
+        </Border>
+        <Button x:Name="LoginButton" Clicked="LoginButton_Clicked" Text="Log In"/>
+    </VerticalStackLayout>
+</view:BaseContentPage>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<view:BaseContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C424Assessment.Views.NotesPage"
+             xmlns:controls="clr-namespace:C424Assessment.Controls"
+             xmlns:view="clr-namespace:C424Assessment.Views"
+             Title="Course Notes">
+    <VerticalStackLayout Padding="10">
+        <Editor x:Name="NotesEditor" Placeholder="Enter your note here."/>
+        <Button x:Name="ShareButton" Text="Share" Clicked="ShareButton_Clicked"/>
+        <controls:ButtonView x:Name="FinishButtons"
+            OnCancel="FinishButtons_OnCancel"
+                             OnSave="FinishButtons_OnSave"
+                             OnDelete="FinishButtons_OnDelete"
+                             />
+    </VerticalStackLayout>
+</view:BaseContentPage>

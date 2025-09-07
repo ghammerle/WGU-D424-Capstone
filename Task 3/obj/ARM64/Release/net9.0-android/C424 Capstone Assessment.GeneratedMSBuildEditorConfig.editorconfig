@@ -1,0 +1,169 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = C424Assessment
+build_property.ProjectDir = D:\SchoolSource\WGU\D424 SWE Capstone\Task 3\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Controls/AssessmentView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Controls.AssessmentView.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\AssessmentView.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\AssessmentView.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Controls/ButtonView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Controls.ButtonView.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\ButtonView.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\ButtonView.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Controls/InstructorView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Controls.InstructorView.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\InstructorView.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\InstructorView.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Controls/TermView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Controls.TermView.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\TermView.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\TermView.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/AssessmentEditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.AssessmentEditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AssessmentEditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AssessmentEditPage.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/CoursePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.CoursePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CoursePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CoursePage.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/CourseReport.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.CourseReport.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CourseReport.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CourseReport.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/CourseSelectorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.CourseSelectorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CourseSelectorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CourseSelectorPage.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/CreateMajorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.CreateMajorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CreateMajorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CreateMajorPage.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/EditCoursePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.EditCoursePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditCoursePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditCoursePage.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/EditCreateStudentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.EditCreateStudentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditCreateStudentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditCreateStudentPage.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/EditTermPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.EditTermPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditTermPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditTermPage.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/EventLogReport.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.EventLogReport.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EventLogReport.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EventLogReport.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/InstructorEditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.InstructorEditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\InstructorEditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\InstructorEditPage.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/NotesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.NotesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\NotesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\NotesPage.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/ReportPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.ReportPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ReportPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ReportPage.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/ReportPopupHelper.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.ReportPopupHelper.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ReportPopupHelper.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ReportPopupHelper.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/SelectTaskPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.SelectTaskPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SelectTaskPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SelectTaskPage.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/TermPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.TermPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TermPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TermPage.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/UpdatePasswordPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.UpdatePasswordPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\UpdatePasswordPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\UpdatePasswordPage.xaml
+
+[D:/SchoolSource/WGU/D424 SWE Capstone/Task 3/Views/UserLoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C424Assessment.Views.UserLoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\UserLoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\UserLoginPage.xaml

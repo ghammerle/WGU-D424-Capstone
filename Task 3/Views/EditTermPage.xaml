@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<view:BaseContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C424Assessment.Views.EditTermPage"
+             xmlns:Controls="clr-namespace:C424Assessment.Controls"
+             xmlns:view="clr-namespace:C424Assessment.Views"
+             Title="Create\Edit Term">
+    <VerticalStackLayout Padding="10">
+        <HorizontalStackLayout>
+            <Label 
+            Text="Term Name: "
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+            FontAttributes="Bold"/>
+            <Entry x:Name="TermNameEntry" Placeholder="Term Name"/>
+        </HorizontalStackLayout>
+        <Label Text="Term Dates" FontSize="18" FontAttributes="Bold"/>
+        <HorizontalStackLayout>
+            <Label 
+            Text="Term Start: "
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+            FontAttributes="Bold"/>
+            <DatePicker x:Name="TermStartDatePicker"/>
+        </HorizontalStackLayout>
+        <HorizontalStackLayout>
+            <Label 
+            Text="Term End: "
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+            FontAttributes="Bold"/>
+            <DatePicker x:Name="TermEndDatePicker"/>
+        </HorizontalStackLayout>
+        <Label Text="Course Selection" FontSize="18" FontAttributes="Bold"/>
+        <Picker x:Name="AvailableCoursesPicker" SelectedIndexChanged="AvailableCoursesPicker_SelectedIndexChanged" Title="Available Courses"/>
+        <Label Text="Selected Courses" FontSize="18" FontAttributes="Bold"/>
+        <ListView
+            x:Name="listCourses"
+             Background="Transparent"
+             SeparatorColor="Silver"
+             RowHeight="65"
+            ItemSelected="listCourses_ItemSelected"
+            ItemTapped="listCourses_ItemTapped">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell
+                        Text="{Binding Name}"
+                        Detail="{Binding Status}">
+                    </TextCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+         </ListView>
+        <Controls:ButtonView x:Name="FinishButtons"
+                             OnCancel="FinishButtons_OnCancel"
+                             OnSave="FinishButtons_OnSave"
+                             OnDelete="FinishButtons_OnDelete"
+                             />
+    </VerticalStackLayout>
+</view:BaseContentPage>

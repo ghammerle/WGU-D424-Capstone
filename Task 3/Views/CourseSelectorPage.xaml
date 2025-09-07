@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<view:BaseContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:view="clr-namespace:C424Assessment.Views"
+             x:Class="C424Assessment.Views.CourseSelectorPage"
+             Title="Course Selection Page">
+    <VerticalStackLayout Spacing="8" Margin="10">
+
+        <Label 
+            Text="Search Selectable Courses:"
+            VerticalOptions="Center" 
+            HorizontalOptions="Start" />
+        <Border Padding="5" StrokeThickness="2">
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="10,10,10,10" />
+            </Border.StrokeShape>
+            <Entry x:Name="SearchEntry" TextChanged="SearchEntry_TextChanged"/>
+        </Border>
+        <Picker x:Name="FilteredPicker" SelectedIndexChanged="FilteredPicker_SelectedIndexChanged" Title="Select a course."/>
+
+        <Label 
+            Text="Course to Add:"
+            VerticalOptions="Center" 
+            HorizontalOptions="Start" />
+        <Border Padding="5" StrokeThickness="2">
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="10,10,10,10" />
+            </Border.StrokeShape>
+            <Label x:Name="CourseToAddLabel" />
+        </Border>
+        <Button x:Name="AddCourseButton" Text="Add Course" Clicked="AddCourseButton_Clicked"/>
+        <Button x:Name="CancelButton" Text="Cancel" Clicked="CancelButton_Clicked"/>
+    </VerticalStackLayout>
+</view:BaseContentPage>

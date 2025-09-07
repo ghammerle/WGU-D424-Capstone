@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{939F62FF-77F4-4DC0-B628-AA328AEF002F}|..\\DataRepositoryClassLibrary\\DataRepositoryClassLibrary.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\datarepositoryclasslibrary\\datarepository\\datarepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\task 3\\views\\editcoursepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|solutionrelative:views\\editcoursepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939F62FF-77F4-4DC0-B628-AA328AEF002F}|..\\DataRepositoryClassLibrary\\DataRepositoryClassLibrary.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\datarepositoryclasslibrary\\datarepository\\dbseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\task 3\\views\\createmajorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|solutionrelative:views\\createmajorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\task 3\\views\\reportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|solutionrelative:views\\reportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\task 3\\views\\termpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|solutionrelative:views\\termpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939F62FF-77F4-4DC0-B628-AA328AEF002F}|..\\DataRepositoryClassLibrary\\DataRepositoryClassLibrary.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\datarepositoryclasslibrary\\datarepository\\sqliterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\task 3\\views\\userloginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|solutionrelative:views\\userloginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939F62FF-77F4-4DC0-B628-AA328AEF002F}|..\\DataRepositoryClassLibrary\\DataRepositoryClassLibrary.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\datarepositoryclasslibrary\\datarepository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\task 3\\views\\basecontentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|solutionrelative:views\\basecontentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\task 3\\views\\selecttaskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|solutionrelative:views\\selecttaskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\task 3\\views\\selecttaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|solutionrelative:views\\selecttaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\task 3\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\task 3\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAB9547-18D3-570F-FA79-FC4EAAA514DD}|C424 Capstone Assessment.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Common.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939F62FF-77F4-4DC0-B628-AA328AEF002F}|..\\DataRepositoryClassLibrary\\DataRepositoryClassLibrary.csproj|d:\\schoolsource\\wgu\\d424 swe capstone\\datarepositoryclasslibrary\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbSeeding.cs",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\DataRepositoryClassLibrary\\DataRepository\\DbSeeding.cs",
+              "RelativeDocumentMoniker": "..\\DataRepositoryClassLibrary\\DataRepository\\DbSeeding.cs",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\DataRepositoryClassLibrary\\DataRepository\\DbSeeding.cs",
+              "RelativeToolTip": "..\\DataRepositoryClassLibrary\\DataRepository\\DbSeeding.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAIwI4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:19:24.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataRepositoryBase.cs",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\DataRepositoryClassLibrary\\DataRepository\\DataRepositoryBase.cs",
+              "RelativeDocumentMoniker": "..\\DataRepositoryClassLibrary\\DataRepository\\DataRepositoryBase.cs",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\DataRepositoryClassLibrary\\DataRepository\\DataRepositoryBase.cs",
+              "RelativeToolTip": "..\\DataRepositoryClassLibrary\\DataRepository\\DataRepositoryBase.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAewL0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T21:39:25.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\DataRepositoryClassLibrary\\DataRepository\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataRepositoryClassLibrary\\DataRepository\\IDataRepository.cs",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\DataRepositoryClassLibrary\\DataRepository\\IDataRepository.cs",
+              "RelativeToolTip": "..\\DataRepositoryClassLibrary\\DataRepository\\IDataRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwD4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T21:37:36.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLiteRepository.cs",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\DataRepositoryClassLibrary\\DataRepository\\SQLiteRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataRepositoryClassLibrary\\DataRepository\\SQLiteRepository.cs",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\DataRepositoryClassLibrary\\DataRepository\\SQLiteRepository.cs",
+              "RelativeToolTip": "..\\DataRepositoryClassLibrary\\DataRepository\\SQLiteRepository.cs",
+              "ViewState": "AgIAAPQCAAAAAAAAAAAiwPECAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T21:31:28.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TermPage.xaml.cs",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\TermPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TermPage.xaml.cs",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\TermPage.xaml.cs",
+              "RelativeToolTip": "Views\\TermPage.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAywJsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:52:13.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateMajorPage.xaml.cs",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\CreateMajorPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CreateMajorPage.xaml.cs",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\CreateMajorPage.xaml.cs",
+              "RelativeToolTip": "Views\\CreateMajorPage.xaml.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAywFkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:24:07.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditCoursePage.xaml.cs",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\EditCoursePage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EditCoursePage.xaml.cs",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\EditCoursePage.xaml.cs",
+              "RelativeToolTip": "Views\\EditCoursePage.xaml.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAIQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:37:19.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportPage.xaml.cs",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\ReportPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ReportPage.xaml.cs",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\ReportPage.xaml.cs",
+              "RelativeToolTip": "Views\\ReportPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:54:52.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseContentPage.cs",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\BaseContentPage.cs",
+              "RelativeDocumentMoniker": "Views\\BaseContentPage.cs",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\BaseContentPage.cs",
+              "RelativeToolTip": "Views\\BaseContentPage.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:07:17.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SelectTaskPage.xaml.cs",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\SelectTaskPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\SelectTaskPage.xaml.cs",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\SelectTaskPage.xaml.cs",
+              "RelativeToolTip": "Views\\SelectTaskPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:33:51.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\UserLoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\UserLoginPage.xaml.cs",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\UserLoginPage.xaml.cs",
+              "RelativeToolTip": "Views\\UserLoginPage.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA0wDEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:13:29.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SelectTaskPage.xaml",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\SelectTaskPage.xaml",
+              "RelativeDocumentMoniker": "Views\\SelectTaskPage.xaml",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\Views\\SelectTaskPage.xaml",
+              "RelativeToolTip": "Views\\SelectTaskPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-06T18:02:45.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:29:18.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\Task 3\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-06T18:29:33.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourseModel.cs",
+              "DocumentMoniker": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\DataRepositoryClassLibrary\\Models\\CourseModel.cs",
+              "RelativeDocumentMoniker": "..\\DataRepositoryClassLibrary\\Models\\CourseModel.cs",
+              "ToolTip": "D:\\SchoolSource\\WGU\\D424 SWE Capstone\\DataRepositoryClassLibrary\\Models\\CourseModel.cs",
+              "RelativeToolTip": "..\\DataRepositoryClassLibrary\\Models\\CourseModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:42:04.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Xamarin.Android.Common.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Common.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Common.targets",
+              "ViewState": "AgIAAFUKAAAAAAAAAAAwwGQKAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-02T06:47:13.408Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

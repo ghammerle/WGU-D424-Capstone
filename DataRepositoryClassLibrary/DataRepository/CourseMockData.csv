@@ -1,0 +1,98 @@
+Id,Name,InstructorId,EstimatedDuration,MajorId
+1,English I,1,2.5,0
+2,English II,2,2.5,0
+3,College Algebra,3,2.5,0
+4,Pre-Calculus,4,2.5,0
+5,Calculus I,5,2.5,0
+6,Introduction to Psychology,6,2.5,0
+7,Introduction to Sociology,7,2.5,0
+8,Public Speaking,8,2.5,0
+9,American Government,9,2.5,0
+10,U.S. History I,10,2.5,0
+11,U.S. History II,11,2.5,0
+12,Environmental Science,12,2.5,0
+13,Biology I,13,2.5,0
+14,Biology II,14,2.5,0
+15,General Chemistry,15,2.5,0
+16,Introduction to Art,16,2.5,0
+17,Music Appreciation,17,2.5,0
+18,Philosophy 101,18,2.5,0
+19,Ethics,19,2.5,0
+20,Introduction to Literature,20,2.5,0
+21,World Literature,21,2.5,0
+22,Introduction to Statistics,22,2.5,0
+23,Physical Science,1,2.5,0
+24,Health and Wellness,2,2.5,0
+25,Introduction to Anthropology,3,2.5,0
+26,Cultural Geography,4,2.5,0
+27,Intro to Computer Literacy,5,2.5,0
+28,Introduction to Astronomy,6,2.5,0
+29,Human Growth and Development,7,2.5,0
+30,Introduction to Logic,8,2.5,0
+31,Writing Fundamentals,9,2.5,0
+32,Intro to Economics,10,2.5,0
+33,Introduction to Theater,11,2.5,0
+34,Introduction to Film,12,2.5,0
+35,Interpersonal Communication,13,2.5,0
+36,Introduction to Political Science,14,2.5,0
+37,College Success Strategies,15,2.5,0
+38,Basic Spanish I,16,2.5,0
+39,Basic Spanish II,17,2.5,0
+40,Digital Media Literacy,18,2.5,1
+41,Data Structures and Algorithms,19,2.5,1
+42,Operating Systems,20,2.5,1
+43,Database Management Systems,21,2.5,1
+44,Computer Networks,22,2.5,1
+45,Software Engineering,1,2.5,1
+46,Web Application Development,2,2.5,1
+47,Cybersecurity Fundamentals,3,2.5,1
+48,Artificial Intelligence,4,2.5,1
+49,Mobile App Development,5,2.5,1
+50,Capstone Project in Computer Science,6,2.5,1
+51,Compiler Design,7,2.5,1
+52,Machine Learning,8,2.5,1
+53,Parallel and Distributed Systems,9,2.5,1
+54,Cloud Computing,10,2.5,1
+55,Computer Graphics,11,2.5,1
+56,Human-Computer Interaction,12,2.5,1
+57,Information Retrieval,13,2.5,1
+58,Natural Language Processing,14,2.5,1
+59,Theory of Computation,15,2.5,1
+60,Cell Biology,16,2.5,2
+61,Molecular Genetics,17,2.5,2
+62,Biochemistry,18,2.5,2
+63,Evolutionary Biology,19,2.5,2
+64,Plant Biology,20,2.5,2
+65,Microbiology,21,2.5,2
+66,Animal Physiology,22,2.5,2
+67,Developmental Biology,1,2.5,2
+68,Neurobiology,2,2.5,2
+69,Marine Biology,3,2.5,2
+70,Immunology,4,2.5,2
+71,Genomics and Proteomics,5,2.5,2
+72,Conservation Biology,6,2.5,2
+73,Biostatistics,7,2.5,2
+74,Ecology,8,2.5,2
+75,Pathophysiology,9,2.5,2
+76,Pharmacology,10,2.5,2
+77,Advanced Genetics,11,2.5,2
+78,Epidemiology,12,2.5,2
+79,Capstone Project in Biology,13,2.5,2
+80,Test Major Course 1,1,2.5,3
+81,Test Major Course 2,2,2.5,3
+82,Test Major Course 3,3,2.5,3
+83,Test Major Course 4,4,2.5,3
+84,Test Major Course 5,5,2.5,3
+85,Test Major Course 6,6,2.5,3
+86,Test Major Course 7,7,2.5,3
+87,Test Major Course 8,8,2.5,3
+88,Test Major Course 9,9,2.5,3
+89,Test Major Course 10,10,2.5,3
+90,Test Major Course 11,11,2.5,3
+91,Test Major Course 12,12,2.5,3
+92,Test Major Course 13,13,2.5,3
+93,Test Major Course 14,14,2.5,3
+94,Test Major Course 15,15,2.5,3
+95,Test Major Course 16,16,2.5,3
+96,Test Major Course 17,17,2.5,3
+97,Test Major Course 18,18,2.5,3

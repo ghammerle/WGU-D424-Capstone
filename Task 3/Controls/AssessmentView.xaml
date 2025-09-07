@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C424Assessment.Controls.AssessmentView">
+    <ContentView.GestureRecognizers>
+        <TapGestureRecognizer Tapped="OnTapped"/>
+    </ContentView.GestureRecognizers>
+    <VerticalStackLayout >
+        <Label 
+            x:Name="HeaderLabel"
+            FontSize="18"
+            FontAttributes="Bold"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Grid
+            Padding="2"
+            RowDefinitions="*"
+            ColumnDefinitions="*,100,25"
+            ColumnSpacing="5"
+              >
+            <Label x:Name="AssessmentLabel" FontAttributes="Bold" Padding="5" Margin="5" Grid.Column="0" />
+            <Label Text="Notifications: " FontAttributes="Bold" VerticalOptions="Center" Grid.Column="1"/>
+            <CheckBox x:Name="EnableNotificationsCB" Grid.Column="2" />
+        </Grid>
+        <Grid
+            Padding="2"
+            RowDefinitions="*"
+            ColumnDefinitions="*,*"
+            ColumnSpacing="100"
+              >
+            <HorizontalStackLayout Grid.Column="1">
+                <Label Text="Due Date: " FontAttributes="Bold" VerticalOptions="Center"/>
+                <Label x:Name="DueDateLabel"/>
+            </HorizontalStackLayout>
+        </Grid>
+    </VerticalStackLayout>
+</ContentView>

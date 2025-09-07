@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<view:BaseContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                      xmlns:view="clr-namespace:C424Assessment.Views"
+             x:Class="C424Assessment.Views.SelectTaskPage"
+             Title="Select Task">
+    <Border Padding="5" StrokeThickness="2" Margin="10">
+        <Border.StrokeShape>
+            <RoundRectangle CornerRadius="10,10,10,10" />
+        </Border.StrokeShape>
+        <VerticalStackLayout Margin="10" Spacing="10">
+            <Button x:Name="EditMajorButton" Text="Edit\Create Major" Clicked="EditMajorButton_Clicked"/>
+            <Button x:Name="EditCourseButton" Text="Edit\Create Course" Clicked="EditCourseButton_Clicked"/>
+            <Button x:Name="EditStudentButton" Text="Edit\Create Student" Clicked="EditStudentButton_Clicked"/>
+            <Button x:Name="EditInstructorButton" Text="Edit\Create Instructor" Clicked="EditInstructorButton_Clicked"/>
+            <Label Text="Reports" FontAttributes="Bold" HorizontalOptions="Center"/>
+            <Button x:Name="ReportCoursesButton" Text="Generate Course Report" Clicked="ReportCoursesButton_Clicked"/>
+            <Button x:Name="ReportLogButton" Text="View Log" Clicked="ReportLogButton_Clicked"/>
+            <Label Text="Database" FontAttributes="Bold" HorizontalOptions="Center"/>
+            <Button x:Name="SeedDataBase" Text="Seed Database" Clicked="SeedDataBase_Clicked"/>
+            <Label Text="User" FontAttributes="Bold" HorizontalOptions="Center"/>
+            <Button x:Name="LogoutButton" Text="Logout" Clicked="LogoutButton_Clicked"/>
+        </VerticalStackLayout>
+    </Border>
+</view:BaseContentPage>

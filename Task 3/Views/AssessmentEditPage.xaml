@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<view:BaseContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C424Assessment.Views.AssessmentEditPage"
+             xmlns:view="clr-namespace:C424Assessment.Views"
+             xmlns:Controls="clr-namespace:C424Assessment.Controls"
+             Title="Assessment Edit">
+    <VerticalStackLayout Padding="10">
+            <Label Text="Edit Assessment " FontSize="18"/>
+            <Label Text="Name: " FontAttributes="Bold" VerticalTextAlignment="Center"/>
+            <Entry x:Name="AssessNameEntry" Placeholder="Enter name"/>
+            <Label Text="Type: " FontAttributes="Bold" VerticalTextAlignment="Center"/>
+            <Picker x:Name="AssessTypePicker"/>
+            <Label Text="Start Date: " FontAttributes="Bold" VerticalTextAlignment="Center"/>
+            <DatePicker x:Name="AssessStartDatePicker"/>
+            <Label Text="End Date: " FontAttributes="Bold" VerticalTextAlignment="Center"/>
+        <DatePicker x:Name="AssessEndDatePicker"/>
+
+        <Controls:ButtonView x:Name="FinishButtons"
+                             OnCancel="FinishButtons_OnCancel"
+                             OnDelete="FinishButtons_OnDelete"
+                             OnSave="FinishButtons_OnSave"
+                             />
+            
+    </VerticalStackLayout>
+</view:BaseContentPage>

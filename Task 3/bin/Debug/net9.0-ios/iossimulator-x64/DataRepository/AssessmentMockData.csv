@@ -1,0 +1,151 @@
+Id,Name,Type,StartDate,EndDate,NotificationsEnabled,CourseId
+1,Final Exam,Performance,1/1/1900,1/1/1900,TRUE,1
+2,Midterm Essay,Performance,1/1/1900,1/1/1900,TRUE,2
+3,Final Exam,Objective,1/1/1900,1/1/1900,TRUE,3
+4,Problem Set,Performance,1/1/1900,1/1/1900,TRUE,4
+5,Weekly Quizzes,Performance,1/1/1900,1/1/1900,TRUE,5
+6,Research Summary,Performance,1/1/1900,1/1/1900,TRUE,6
+7,Field Report,Performance,1/1/1900,1/1/1900,TRUE,7
+8,Persuasive Speech,Performance,1/1/1900,1/1/1900,TRUE,8
+9,Constitution Quiz,Objective,1/1/1900,1/1/1900,TRUE,9
+10,Midterm Essay,Performance,1/1/1900,1/1/1900,TRUE,10
+11,Documentary Review,Performance,1/1/1900,1/1/1900,TRUE,11
+12,Field Observation Report,Performance,1/1/1900,1/1/1900,TRUE,12
+13,Lab Report,Performance,1/1/1900,1/1/1900,TRUE,13
+14,Group Presentation,Performance,1/1/1900,1/1/1900,TRUE,14
+15,Lab Practical,Performance,1/1/1900,1/1/1900,TRUE,15
+16,Sketch Portfolio,Performance,1/1/1900,1/1/1900,TRUE,16
+17,Concert Review,Performance,1/1/1900,1/1/1900,TRUE,17
+18,Socratic Dialogue,Performance,1/1/1900,1/1/1900,TRUE,18
+19,Case Study,Performance,1/1/1900,1/1/1900,TRUE,19
+20,Book Analysis,Performance,1/1/1900,1/1/1900,TRUE,20
+21,Literary Analysis,Performance,1/1/1900,1/1/1900,TRUE,21
+22,Data Project,Performance,1/1/1900,1/1/1900,TRUE,22
+23,Lab Activity,Performance,1/1/1900,1/1/1900,TRUE,23
+24,Wellness Plan,Performance,1/1/1900,1/1/1900,TRUE,24
+25,Field Notes Assignment,Performance,1/1/1900,1/1/1900,TRUE,25
+26,Map Analysis,Performance,1/1/1900,1/1/1900,TRUE,26
+27,Technology Skills Assessment,Performance,1/1/1900,1/1/1900,TRUE,27
+28,Star Chart Project,Performance,1/1/1900,1/1/1900,TRUE,28
+29,Developmental Timeline,Performance,1/1/1900,1/1/1900,TRUE,29
+30,Logic Puzzle Set,Performance,1/1/1900,1/1/1900,TRUE,30
+31,Writing Portfolio,Performance,1/1/1900,1/1/1900,TRUE,31
+32,Market Analysis Report,Performance,1/1/1900,1/1/1900,TRUE,32
+33,Performance Critique,Performance,1/1/1900,1/1/1900,TRUE,33
+34,Film Review,Performance,1/1/1900,1/1/1900,TRUE,34
+35,Communication Log,Performance,1/1/1900,1/1/1900,TRUE,35
+36,Policy Review,Performance,1/1/1900,1/1/1900,TRUE,36
+37,Goal Setting Plan,Performance,1/1/1900,1/1/1900,TRUE,37
+38,Oral Presentation,Performance,1/1/1900,1/1/1900,TRUE,38
+39,Dialogue Project,Performance,1/1/1900,1/1/1900,TRUE,39
+40,Multimedia Report,Performance,1/1/1900,1/1/1900,TRUE,40
+41,Final Exam,Objective,1/1/1900,1/1/1900,TRUE,41
+42,Process Simulation Project,Performance,1/1/1900,1/1/1900,TRUE,42
+43,SQL Project,Performance,1/1/1900,1/1/1900,TRUE,43
+44,Packet Sniffing Lab,Performance,1/1/1900,1/1/1900,TRUE,44
+45,Team Software Project,Performance,1/1/1900,1/1/1900,TRUE,45
+46,Web App Final Project,Performance,1/1/1900,1/1/1900,TRUE,46
+47,Vulnerability Report,Performance,1/1/1900,1/1/1900,TRUE,47
+48,AI Model Project,Performance,1/1/1900,1/1/1900,TRUE,48
+49,Mobile App Final Project,Performance,1/1/1900,1/1/1900,TRUE,49
+50,Final Capstone Presentation,Performance,1/1/1900,1/1/1900,TRUE,50
+51,Course Project,Objective,1/1/1900,1/1/1900,TRUE,1
+52,Final Exam,Objective,1/1/1900,1/1/1900,TRUE,2
+53,Homework Portfolio,Performance,1/1/1900,1/1/1900,TRUE,3
+54,Final Exam,Objective,1/1/1900,1/1/1900,TRUE,4
+55,Cumulative Final,Objective,1/1/1900,1/1/1900,TRUE,5
+56,Final Exam,Objective,1/1/1900,1/1/1900,TRUE,6
+57,Final Test,Objective,1/1/1900,1/1/1900,TRUE,7
+58,Final Test,Objective,1/1/1900,1/1/1900,TRUE,8
+59,Position Paper,Performance,1/1/1900,1/1/1900,TRUE,9
+60,Final Exam,Objective,1/1/1900,1/1/1900,TRUE,10
+61,Multiple Choice Exam,Objective,1/1/1900,1/1/1900,TRUE,11
+62,Final Exam,Objective,1/1/1900,1/1/1900,TRUE,12
+63,Final Exam,Objective,1/1/1900,1/1/1900,TRUE,13
+64,Quiz Series,Objective,1/1/1900,1/1/1900,TRUE,14
+65,Final Exam,Objective,1/1/1900,1/1/1900,TRUE,15
+66,Art History Quiz,Objective,1/1/1900,1/1/1900,TRUE,16
+67,Final Quiz,Objective,1/1/1900,1/1/1900,TRUE,17
+68,Final Essay,Performance,1/1/1900,1/1/1900,TRUE,18
+69,Final Debate,Performance,1/1/1900,1/1/1900,TRUE,19
+70,Essay Exam,Performance,1/1/1900,1/1/1900,TRUE,20
+71,Reading Comprehension Exam,Objective,1/1/1900,1/1/1900,TRUE,21
+72,Final Exam,Objective,1/1/1900,1/1/1900,TRUE,22
+73,Objective Quiz,Objective,1/1/1900,1/1/1900,TRUE,23
+74,Knowledge Exam,Objective,1/1/1900,1/1/1900,TRUE,24
+75,Cultural Comparison Essay,Performance,1/1/1900,1/1/1900,TRUE,25
+76,Final Exam,Objective,1/1/1900,1/1/1900,TRUE,26
+77,Digital Literacy Test,Objective,1/1/1900,1/1/1900,TRUE,27
+78,Final Objective Exam,Objective,1/1/1900,1/1/1900,TRUE,28
+79,Final Exam,Objective,1/1/1900,1/1/1900,TRUE,29
+80,Symbolic Logic Exam,Objective,1/1/1900,1/1/1900,TRUE,30
+81,Grammar Quiz,Objective,1/1/1900,1/1/1900,TRUE,31
+82,Supply and Demand Exam,Objective,1/1/1900,1/1/1900,TRUE,32
+83,Theater History Quiz,Objective,1/1/1900,1/1/1900,TRUE,33
+84,Cinematic Techniques Quiz,Objective,1/1/1900,1/1/1900,TRUE,34
+85,Final Skills Exam,Objective,1/1/1900,1/1/1900,TRUE,35
+86,Comparative Politics Quiz,Objective,1/1/1900,1/1/1900,TRUE,36
+87,Time Management Assessment,Objective,1/1/1900,1/1/1900,TRUE,37
+88,Vocabulary Test,Objective,1/1/1900,1/1/1900,TRUE,38
+89,Grammar Quiz,Objective,1/1/1900,1/1/1900,TRUE,39
+90,Ethics Quiz,Objective,1/1/1900,1/1/1900,TRUE,40
+91,Algorithm Implementation Project,Performance,1/1/1900,1/1/1900,TRUE,41
+92,Final Exam,Objective,1/1/1900,1/1/1900,TRUE,42
+93,Concepts Exam,Objective,1/1/1900,1/1/1900,TRUE,43
+94,Networking Final,Objective,1/1/1900,1/1/1900,TRUE,44
+95,Requirements & Design Quiz,Objective,1/1/1900,1/1/1900,TRUE,45
+96,HTML/CSS/JS Quiz,Objective,1/1/1900,1/1/1900,TRUE,46
+97,Security Exam,Objective,1/1/1900,1/1/1900,TRUE,47
+98,Theory Quiz,Objective,1/1/1900,1/1/1900,TRUE,48
+99,Platform Features Quiz,Objective,1/1/1900,1/1/1900,TRUE,49
+100,Technical Report,Performance,1/1/1900,1/1/1900,TRUE,50
+101,Final Exam,Performance,1/1/1900,1/1/1900,TRUE,51
+102,Midterm Essay,Performance,1/1/1900,1/1/1900,TRUE,52
+103,Final Exam,Objective,1/1/1900,1/1/1900,TRUE,53
+104,Problem Set,Performance,1/1/1900,1/1/1900,TRUE,54
+105,Weekly Quizzes,Performance,1/1/1900,1/1/1900,TRUE,55
+106,Research Summary,Performance,1/1/1900,1/1/1900,TRUE,56
+107,Field Report,Performance,1/1/1900,1/1/1900,TRUE,57
+108,Persuasive Speech,Performance,1/1/1900,1/1/1900,TRUE,58
+109,Constitution Quiz,Objective,1/1/1900,1/1/1900,TRUE,59
+110,Midterm Essay,Performance,1/1/1900,1/1/1900,TRUE,60
+111,Documentary Review,Performance,1/1/1900,1/1/1900,TRUE,61
+112,Field Observation Report,Performance,1/1/1900,1/1/1900,TRUE,62
+113,Lab Report,Performance,1/1/1900,1/1/1900,TRUE,63
+114,Group Presentation,Performance,1/1/1900,1/1/1900,TRUE,64
+115,Lab Practical,Performance,1/1/1900,1/1/1900,TRUE,65
+116,Sketch Portfolio,Performance,1/1/1900,1/1/1900,TRUE,66
+117,Concert Review,Performance,1/1/1900,1/1/1900,TRUE,67
+118,Socratic Dialogue,Performance,1/1/1900,1/1/1900,TRUE,68
+119,Case Study,Performance,1/1/1900,1/1/1900,TRUE,69
+120,Book Analysis,Performance,1/1/1900,1/1/1900,TRUE,70
+121,Literary Analysis,Performance,1/1/1900,1/1/1900,TRUE,71
+122,Data Project,Performance,1/1/1900,1/1/1900,TRUE,72
+123,Lab Activity,Performance,1/1/1900,1/1/1900,TRUE,73
+124,Wellness Plan,Performance,1/1/1900,1/1/1900,TRUE,74
+125,Field Notes Assignment,Performance,1/1/1900,1/1/1900,TRUE,75
+126,Map Analysis,Performance,1/1/1900,1/1/1900,TRUE,76
+127,Technology Skills Assessment,Performance,1/1/1900,1/1/1900,TRUE,77
+128,Star Chart Project,Performance,1/1/1900,1/1/1900,TRUE,78
+129,Developmental Timeline,Performance,1/1/1900,1/1/1900,TRUE,79
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

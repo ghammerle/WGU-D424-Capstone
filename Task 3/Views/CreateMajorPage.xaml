@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<view:BaseContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:view="clr-namespace:C424Assessment.Views"
+             xmlns:controls="clr-namespace:C424Assessment.Controls"
+             x:Class="C424Assessment.Views.CreateMajorPage"
+             Title="Create\Edit Major">
+    <VerticalStackLayout>
+        <Label 
+            Text="Select Major:"
+            FontAttributes="Bold"
+            FontSize="18"
+            VerticalOptions="Start" 
+            HorizontalOptions="Center" />
+        <Picker x:Name="MajorPicker"
+                SelectedIndexChanged="MajorPicker_SelectedIndexChanged"
+                Title="Select Major"
+                HorizontalTextAlignment="Center"/>
+        <Label 
+            Text="Major:"
+            VerticalOptions="Center" 
+            HorizontalOptions="Start" 
+            FontAttributes="Bold"
+            FontSize="16"/>
+        <Border Padding="5" StrokeThickness="2" Margin="5">
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="10,10,10,10" />
+            </Border.StrokeShape>
+            <Entry x:Name="MajorEntry" Placeholder="Enter major"/>
+        </Border>
+            <Label Text="Courses"
+           FontSize="24"
+           FontAttributes="Bold"
+           HorizontalOptions="Center" />
+        <Border Padding="5" StrokeThickness="2" Margin="5">
+            <ScrollView MinimumHeightRequest="65" MaximumHeightRequest="300">
+                <ListView
+            x:Name="listCourses"
+             Background="Transparent"
+             SeparatorColor="Silver"
+             RowHeight="65"
+             ItemTapped="listCourses_ItemTapped">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell
+                        Text="{Binding Name}"
+                        Detail="{Binding Status}">
+                            </TextCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </ScrollView>
+        </Border>
+        <Button Text="Add Course"
+                x:Name="AddCourseButton"
+                Clicked="AddCourseButton_Clicked"
+                HorizontalOptions="Center"
+                VerticalOptions="End"
+                Margin="10"/>
+        <controls:ButtonView x:Name="FinishButtons"
+                             OnCancel="FinishButtons_OnCancel"
+                             OnDelete="FinishButtons_OnDelete"
+                             OnSave="FinishButtons_OnSave"/>
+    </VerticalStackLayout>
+</view:BaseContentPage>

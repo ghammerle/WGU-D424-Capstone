@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>C971Assessment</name>
+    </assembly>
+    <members>
+        <member name="T:C971Assessment.DataRepository.DbSeeding">
+            <summary>
+            This class is responsible for seeding the database with initial mock data.
+            </summary>
+        </member>
+        <member name="M:C971Assessment.DataRepository.SQLiteRepository.GetCourses(System.Boolean)">
+            <summary>
+            Get Course Table content from the database.
+            </summary>
+            <returns></returns>
+            <exception cref="T:System.InvalidOperationException"></exception>
+        </member>
+        <member name="M:C971Assessment.DataRepository.SQLiteRepository.GetTerms(System.Boolean)">
+            <summary>
+            Get all terms from the database.
+            </summary>
+            <returns></returns>
+            <exception cref="T:System.InvalidOperationException"></exception>
+        </member>
+        <member name="M:C971Assessment.DataRepository.SQLiteRepository.GetInstructors">
+            <summary>
+            Get all instructors from the database.
+            </summary>
+            <returns></returns>
+            <exception cref="T:System.InvalidOperationException"></exception>
+        </member>
+        <member name="M:C971Assessment.DataRepository.SQLiteRepository.GetNotes">
+            <summary>
+            Get all notes from the database.
+            </summary>
+            <returns></returns>
+            <exception cref="T:System.InvalidOperationException"></exception>
+        </member>
+        <member name="M:C971Assessment.DataRepository.SQLiteRepository.GetAssessments(System.Boolean)">
+            <summary>
+            Get all assessments from the database.
+            </summary>
+            <returns></returns>
+            <exception cref="T:System.InvalidOperationException"></exception>
+        </member>
+        <member name="M:C971Assessment.DataRepository.SQLiteRepository.Init(System.Boolean)">
+            <summary>
+            intitialize the database
+            </summary>
+            <param name="skip">set to  ture for initial seeding setup</param>
+            <returns></returns>
+        </member>
+        <member name="M:C971Assessment.DataRepository.SQLiteRepository.DeleteTerm(System.Int32)">
+            <summary>
+            Delete a course by Id. 
+             Related courses will be disassociated with this term.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            <exception cref="T:System.InvalidOperationException"></exception>
+        </member>
+        <member name="T:C971Assessment.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+    </members>
+</doc>

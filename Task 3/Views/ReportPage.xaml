@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C424Assessment.Views.ReportPage"
+             Title="Report Page">
+    <Grid Padding="5" Margin="5" RowSpacing="5" RowDefinitions="*, Auto" >
+        <ScrollView Grid.Row="0" Orientation="Both" HorizontalScrollBarVisibility="Always" VerticalScrollBarVisibility="Always">
+            <Border>
+                <ContentView x:Name="ReportView"/>
+            </Border>
+        </ScrollView>
+        <Button x:Name="CloseButton" Text="Close" Clicked="CloseButton_Clicked" Grid.Row="1"/>
+    </Grid>
+</ContentPage>

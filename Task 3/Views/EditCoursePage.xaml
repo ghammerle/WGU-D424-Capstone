@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<view:BaseContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C424Assessment.Views.EditCoursePage"
+             xmlns:controls="clr-namespace:C424Assessment.Controls"
+             xmlns:view="clr-namespace:C424Assessment.Views"
+             Title="">
+    <Border Padding="10" Margin="10">
+    <VerticalStackLayout>
+        <HorizontalStackLayout >
+            <Label 
+                 Text="Course Name: "
+                 VerticalOptions="Center" 
+                 HorizontalOptions="Center" 
+                 FontAttributes="Bold"/>
+            <Entry x:Name="CourseNameEntry" Placeholder="Course Name"/>
+        </HorizontalStackLayout>
+        <VerticalStackLayout>
+            <Picker x:Name="MajorPicker" Title="Select Major" SelectedIndexChanged="MajorPicker_SelectedIndexChanged"/>
+            <Label Text="Instructor" FontSize="18" FontAttributes="Bold"/>
+                <Picker x:Name="InstructorPicker" Title="Select Instructor" SelectedIndexChanged="InstructorPicker_SelectedIndexChanged"/>
+                <controls:InstructorView x:Name="InstructorView"/>
+            </VerticalStackLayout>
+        <HorizontalStackLayout>
+            <Label 
+                 Text="Course Duration: "
+                 VerticalOptions="Center" 
+                 HorizontalOptions="Center" 
+                 FontAttributes="Bold"/>
+            <Entry x:Name="CourseDurationEntry" Placeholder="2.5"/>
+        </HorizontalStackLayout>
+        <Border>
+            <HorizontalStackLayout>
+                <Label Text="Assessment One" FontAttributes="Bold"/>
+                <Entry x:Name="AssessmentOneNameEntry" Placeholder="Assessment One Name"/>
+                <Picker x:Name="AssessmentOneTypePicker" Title="Select Type" />
+            </HorizontalStackLayout>
+        </Border>
+        <Border>
+            <HorizontalStackLayout>
+                <Label Text="Assessment Two" FontAttributes="Bold"/>
+                <Entry x:Name="AssessmentTwoNameEntry" Placeholder="Assessment Two Name"/>
+                <Picker x:Name="AssessmentTwoTypePicker" Title="Select Type"/>
+            </HorizontalStackLayout>
+        </Border>
+        <controls:ButtonView 
+            x:Name="FinishButtons"
+            OnCancel="FinishButtons_OnCancel"
+            OnDelete="FinishButtons_OnDelete"
+            OnSave="FinishButtons_OnSave"/>
+    </VerticalStackLayout>
+    </Border>
+</view:BaseContentPage>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<view:BaseContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="C424Assessment.Views.InstructorEditPage"
+             xmlns:Controls="clr-namespace:C424Assessment.Controls"
+            xmlns:view="clr-namespace:C424Assessment.Views"
+             Title="Instructor Edit">
+    <VerticalStackLayout Padding="10">
+        <Label Text="Select Instructor" FontSize="18"/>
+        <Picker x:Name="InstructorPicker" SelectedIndexChanged="InstructorPicker_SelectedIndexChanged" Title="Instructor List"/>
+        <Border>
+            <VerticalStackLayout>
+                <Label Text="Edit Instructor" FontSize="18"/>
+                <Label Text="Name: " FontAttributes="Bold" VerticalTextAlignment="Center"/>
+                <Entry x:Name="NameEntry" Placeholder="Enter name"/>
+
+                <Label Text="Phone" FontAttributes="Bold" VerticalTextAlignment="Center"/>
+                <Entry x:Name="PhoneEntry" Placeholder="Enter phone"/>
+
+                <Label Text="Email" FontAttributes="Bold" VerticalTextAlignment="Center"/>
+                <Entry x:Name="EmailEntry" Placeholder="Enter email"/>
+            </VerticalStackLayout>
+        </Border>
+        <Button x:Name="AddButton" Text="Add Instructor" Clicked="AddButton_Clicked"/>
+        <Controls:ButtonView x:Name="FinishButtons"
+                             OnCancel="FinishButtons_OnCancel"
+                             OnSave="FinishButtons_OnSave"
+                             OnDelete="FinishButtons_OnDelete"
+                             />
+    </VerticalStackLayout>
+</view:BaseContentPage>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<view:BaseContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:C424Assessment"
+            xmlns:view="clr-namespace:C424Assessment.Views"
+             x:Class="C424Assessment.Views.CoursePage"
+             xmlns:controls="clr-namespace:C424Assessment.Controls"
+             Title="Course Editor">
+    <VerticalStackLayout Padding="10"  Spacing="10">
+        <Label x:Name="CourseNameLabel"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center"
+               FontSize="24"
+               FontAttributes="Bold"/>
+        <HorizontalStackLayout HorizontalOptions="Center">
+            <Label Text="Stating Date: " VerticalOptions="Center" FontAttributes="Bold" FontSize="16"/>
+            <DatePicker x:Name="StartDatePicker" FontSize="16" />
+            <Label Text="Ending Date: " VerticalOptions="Center"  FontAttributes="Bold" FontSize="16"/>
+            <DatePicker x:Name="EndDatePicker"   FontSize="16" />
+        </HorizontalStackLayout>
+        <Grid
+            Padding="2"
+            RowDefinitions="*"
+            ColumnDefinitions="*,100,25"
+            ColumnSpacing="5"
+              >
+            <HorizontalStackLayout Padding=" 4" Margin="5" Grid.Column="0">
+                <Label Text="Status: " VerticalOptions="Center" FontAttributes="Bold"/>
+                <Picker x:Name="StatusPicker" FontSize="16" Title="Status"/>
+            </HorizontalStackLayout>
+            <Label Text="Notifications: " FontAttributes="Bold" VerticalOptions="Center" Grid.Column="1"/>
+            <CheckBox x:Name="EnableNotificationsCB" Grid.Column="2" />
+        </Grid>
+        <controls:InstructorView x:Name="InstructorView"/>
+        <Button x:Name="notesButton" Text="Notes" Clicked="notesButton_Clicked"/>
+        <Border>
+            <controls:AssessmentView x:Name="AssessmentViewOne"/>
+        </Border>
+        <Border>
+            <controls:AssessmentView x:Name="AssessmentViewTwo"/>
+        </Border>
+        <Button x:Name="UpdateButton" Text="Update" Clicked="UpdateButton_Clicked"/>
+        <Button x:Name="RemoveCourseButton" Text="Remove Course" Clicked="RemoveCourseButton_Clicked"/>
+        <Button x:Name="ReturnButton" Text="Return to Term" Clicked="ReturnButton_Clicked"/>
+    </VerticalStackLayout>
+</view:BaseContentPage>
